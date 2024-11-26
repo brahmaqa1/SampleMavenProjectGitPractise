@@ -20,7 +20,7 @@ public class LoginPage extends base
 	private WebElement pwdEle;
 	private WebElement loginBtn;
 		private WebElement loginBtn;
-	added by brahma
+	//added by brahma
 	
 	//2. Initilase ele
 	
